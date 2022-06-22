@@ -12,3 +12,6 @@ git clone https://github.com/me-no-dev/ESPAsyncTCP.git
 ``` 
 
 Restart (not sure) and re-upload script.
+
+
+This README should be more detailed !
